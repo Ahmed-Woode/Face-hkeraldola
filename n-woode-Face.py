@@ -1,21 +1,3 @@
-Skip to content
-ITX-FARYAL
-/
-Muskan66
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Muskan66/Faryal-Zoya.py
-@ITX-FARYAL
-ITX-FARYAL Create Faryal-Zoya.py
-…
- 1 contributor
-1336 lines (1306 sloc)  140 KB
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
